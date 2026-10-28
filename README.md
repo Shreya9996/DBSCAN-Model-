@@ -6,6 +6,7 @@ Built for the **Advanced Learner Practical — Machine Learning** course.
 
 ---
 
+
 ## Features
 
 - **Interactive Visualizer** — Generate synthetic datasets (moons, circles, blobs, etc.) or upload CSV files, tune ε and MinPts in real time, and watch clusters form.
