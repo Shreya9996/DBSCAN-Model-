@@ -14,6 +14,22 @@ Built for the **Advanced Learner Practical — Machine Learning** course.
 - **Educational Content** — Step-by-step algorithm walkthrough, parameter explanations, advantages & limitations, real-world applications.
 - **DBSCAN vs K-Means** — Side-by-side live comparison on a moons dataset.
 
+
+<img width="1361" height="718" alt="image" src="https://github.com/user-attachments/assets/ca651778-4987-4d06-a1cc-e6a59fb8bf28" />
+
+
+<img width="1365" height="640" alt="image" src="https://github.com/user-attachments/assets/3a65d2d7-0584-495e-8baf-5a6593c3f753" />
+
+
+<img width="1365" height="649" alt="image" src="https://github.com/user-attachments/assets/3857706e-16c6-4122-9204-e2f07b330f0f" />
+
+
+
+<img width="1362" height="651" alt="image" src="https://github.com/user-attachments/assets/581372f3-1424-48ca-969c-75bb8ce3fb0e" />
+
+
+
+
 ## Tech Stack
 
 | Tool | Purpose |
